@@ -8,6 +8,8 @@ Computer-Graphics Project
 
 - OpenGL 3.3.0
 
+- OpenGL lib, include 폴더 경로는 'C:\Users\ 안에 존재해야 함
+
   
 
   
